@@ -1,4 +1,4 @@
-### Hi there, welcome to my profile 👋
+### Olá, seja bem-vindo(a) ao meu perfil! 👋
 Meu nome é Eduarda Magnago e atualmente estudo constantemente HTML, CSS e Java para aprimorar meus conhecimentos na área de desenvolvimento web. 
 Fique à vontade para explorar meu repositório que pretendo atualizar cada vez mais.
 
