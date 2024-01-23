@@ -3,7 +3,7 @@ Meu nome é Eduarda e atualmente estudo constantemente HTML, CSS e Java para apr
 Fique à vontade para explorar meu repositório que pretendo atualizar cada vez mais.
 
 ### Sobre mim/Contato
-- 🔭 Atualmente estou estudando com foco na área de Front-End.
+- 🔭 Atualmente com foco na área de Front-End.
 - 🤿 Mergulhando no aprendizado como estudante da Alura desde Janeiro de 2024.
 - 🎓 Graduação completa em Engenharia Civil pela Universidade Vila Velha - UVV.
 - 🗺️ Inglês Avançado e Francês Intermediário. 
