@@ -5,7 +5,7 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 ### Sobre mim/Contato
 - 🔭 Atualmente estou estudando com foco na área de Front-End.
 - 🌱 Estudante da Alura desde Janeiro de 2024.
-- 🎓 Graduada em Engenharia Civil pela Universidade Vila Velha - UVV.
+- 🎓 Graduação completa em Engenharia Civil pela Universidade Vila Velha - UVV.
 - 📫 Entre em contato comigo: eduardamagnago2@gmail.com
 
 ### Ferramentas que mais utilizo
