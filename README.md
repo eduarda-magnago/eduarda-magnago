@@ -3,8 +3,8 @@ Meu nome é Eduarda Magnago e atualmente estudo constantemente HTML, CSS e Java 
 Fique à vontade para explorar meu repositório que pretendo atualizar cada vez mais.
 
 ### Sobre mim/Contato
-- 🔭 Atualmente estou estudando para ser desenvolvedora web.
-- 🌱 Estudante da Aluna desde Janeiro de 2024.
+- 🔭 Atualmente estou estudando com foco na área de Front-End.
+- 🌱 Estudante da Alura desde Janeiro de 2024.
 - 🎓 Graduada em Engenharia Civil pela Universidade Vila Velha - UVV.
 - 📫 Entre em contato comigo: eduardamagnago2@gmail.com
 
