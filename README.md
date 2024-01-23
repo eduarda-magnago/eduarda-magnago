@@ -1,12 +1,12 @@
 ### Hi there, welcome to my profile 👋
-My name is Eduarda Magnago and I'm currently constantly studying HTML, CSS and Java to improve my knowledge in web development.
-Feel free to explore my repository which I pretend to update more and more. 
+Meu nome é Eduarda Magnago e atualmente estudo constantemente HTML, CSS e Java para aprimorar meus conhecimentos na área de desenvolvimento web. 
+Fique à vontade para explorar meu repositório que pretendo atualizar cada vez mais.
 
-### About me/Contact
-- 🔭 I’m currently studying to be a web developer. 
-- 🌱 Student of Alura.
-- 🎓 Graduated in Civil Enginnering, Universidade Vila Velha - UVV.
-- 📫 How to reach me: eduardamagnago2@gmail.com
+### Sobre mim/Contato
+- 🔭 Atualmente estou estudando para ser desenvolvedora web.
+- 🌱 Estudante da Aluna desde Janeiro de 2024.
+- 🎓 Graduada em Engenharia Civil pela Universidade Vila Velha - UVV.
+- 📫 Entre em contato comigo: eduardamagnago2@gmail.com
 
 ### Ferramentas que mais utilizo
 <dev>
