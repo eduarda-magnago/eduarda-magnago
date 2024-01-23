@@ -1,9 +1,8 @@
-<html lang="en-EN">
 ### Hi there, welcome to my profile 👋
 My name is Eduarda Magnago and I'm currently constantly studying HTML, CSS and Java to improve my knowledge in web development.
 Feel free to explore my repository which I pretend to update more and more. 
 
-### About me
+### About me/Contact
 - 🔭 I’m currently studying to be a web developer. 
 - 🌱 Student of Alura.
 - 🎓 Graduated in Civil Enginnering, Universidade Vila Velha - UVV.
