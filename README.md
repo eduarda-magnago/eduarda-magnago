@@ -4,7 +4,7 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 
 ### Sobre mim/Contato
 - 🔭 Atualmente com foco na área de Front-End.
-- 🤿 Mergulhando no aprendizado como estudante da Alura desde Janeiro de 2024.
+- 🤿 Mergulhando no aprendizado da Alura desde Janeiro de 2024.
 - 🎓 Graduação completa em Engenharia Civil pela Universidade Vila Velha - UVV.
 - 🗺️ Inglês Avançado e Francês Intermediário. 
 - 📫 Entre em contato comigo: eduardamagnago2@gmail.com
