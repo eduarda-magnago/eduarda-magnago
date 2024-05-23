@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo(a) ao meu perfil! 👋
-Meu nome é Eduarda e venho estudando constantemente HTML, CSS e Java para aprimorar meus conhecimentos na área de desenvolvimento web. 
+Meu nome é Eduarda e venho estudando constantemente para aprimorar meus conhecimentos na área de desenvolvimento web. 
 Fique à vontade para explorar meu repositório que pretendo atualizar cada vez mais.
 
 ### Sobre mim/Contato
