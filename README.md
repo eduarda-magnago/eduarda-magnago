@@ -7,7 +7,7 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 - 🤿 Mergulhando no aprendizado com a Alura e EBAC (Bootcamp Engenheiro Front-End).
 - 💻 Análise e Desenvolvimento de Sistemas (08/2024 - 12/2026), PUC Minas.
 - 🎓 Graduação completa em Engenharia Civil pela Universidade Vila Velha - UVV.
-- 🗺️ Inglês Avançado e Francês Intermediário. 
+- 🗺️ Inglês Fluente e Francês Intermediário. 
 
 ### Contato 📫
 Email: eduardamagnago2@gmail.com<br>
