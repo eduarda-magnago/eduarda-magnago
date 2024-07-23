@@ -10,6 +10,6 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 - 🗺️ Inglês Avançado e Francês Intermediário. 
 
 ### Contato 📫
-Email: eduardamagnago2@gmail.com
-Linkedin: https://www.linkedin.com/in/eduarda-magnago/
+Email: eduardamagnago2@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/eduarda-magnago/<br>
 Instagram focado para tecnologia: @dudacode_
