@@ -12,4 +12,6 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 ### Contato 📫
 Email: eduardamagnago2@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/eduarda-magnago/<br>
-Instagram focado para tecnologia: @dudacode_
+
+### Para saber mais:
+Siga meu Instagram focado em tecnologia: @dudacode_
