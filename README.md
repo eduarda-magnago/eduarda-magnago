@@ -14,4 +14,5 @@ Email: eduardamagnago2@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/eduarda-magnago/<br>
 
 ### Para saber mais:
+Portfolio: https://eduarda-magnago.github.io/portfolio/
 Siga meu Instagram focado em tecnologia: @dudacode_
