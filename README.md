@@ -13,5 +13,3 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 Email: eduardamagnago2@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/eduarda-magnago/<br>
 
-### Para saber mais:
-Siga meu Instagram focado em tecnologia: @dudacode_
