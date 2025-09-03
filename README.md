@@ -9,7 +9,7 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 - 🗺️ Inglês Fluente e Francês Intermediário.
 
 ### Acesse meu repositório de estudos Front-End:
-https://github.com/ebac-frontend
+https://github.com/ebac-frontend/readme-file
 
 ### Contato 📫
 Email: eduardamagnago2@gmail.com<br>
