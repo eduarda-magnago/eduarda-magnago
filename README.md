@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo(a) ao meu perfil! 👋
-Meu nome é Eduarda e venho estudando constantemente para aprimorar meus conhecimentos na área de tecnologia com foco no Desenvolvimento Front-End e Design de Interfaces. 
+Meu nome é Eduarda e venho estudando constantemente para aprimorar meus conhecimentos na área de tecnologia.
 Fique à vontade para explorar meu repositório que pretendo atualizar cada vez mais!
 
 ### Sobre mim:
