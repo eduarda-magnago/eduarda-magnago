@@ -8,7 +8,7 @@ Fique à vontade para explorar meu repositório que pretendo atualizar cada vez 
 - 🤿 Mergulhando no aprendizado com a EBAC (Bootcamp Engenheiro Front-End).
 - 🗺️ Inglês Fluente e Francês Intermediário.
 
-### Acesse meu repositório de estudos Front-End:
+### <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width="30px" style="vertical-align: middle;" /> Acesse meu repositório de estudos Front-End:
 https://github.com/ebac-frontend/readme-file
 
 ### Contato 📫
