@@ -16,7 +16,7 @@ https://github.com/ebac-frontend/readme-file
 
 ### Contato 📫
 Email: eduardamagnago2@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/eduarda-magnago<br>
+Linkedin: www.linkedin.com/in/eduarda-magnago<br>
 
 ### Minhas Estatísticas/Linguagens mais usadas:
 <p align="left">
