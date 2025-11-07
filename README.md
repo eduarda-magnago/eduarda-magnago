@@ -20,8 +20,12 @@ Linkedin: www.linkedin.com/in/eduarda-magnago<br>
 
 ### Minhas Estatísticas/Linguagens mais usadas:
 <p align="left">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=eduarda-magnago&show_icons=true&theme=merko" alt="GitHub stats" />
-  <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-magnago&layout=compact&theme=merko" alt="Top Langs" />
+  <img width="420px"
+       src="https://github-readme-stats.vercel.app/api?username=eduarda-magnago&show_icons=true&theme=merko&hide_border=true"
+       alt="GitHub stats" />
+  <img width="320px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-magnago&layout=compact&theme=merko&hide_border=true"
+       alt="Top Langs" />
 </p>
 
 
